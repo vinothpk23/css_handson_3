@@ -1,5 +1,3 @@
-
-
 * {
     margin: 0;
     padding: 0;
@@ -92,11 +90,13 @@ h1 {
     color: #900C3F;
     text-shadow: 1px 1px 2px;
 }
-#box3h2 input{
+
+#box3h2 input {
     width: 120px;
     text-align: center;
 }
-#box3h2 button{ 
+
+#box3h2 button {
     width: 85px;
     text-align: center;
     border: 1px solid black;
@@ -203,6 +203,7 @@ p {
     bottom: 40px;
     left: 450px;
     position: fixed;
+    box-shadow: 8px 8px 3px darkmagenta;
 }
 
 .discountbox h2 {
@@ -224,78 +225,3 @@ p {
     margin-right: 20px;
 
 }
-
-
-/* div4{
-    height: 100px;
-    font-weight: bold;;
-}
-div,h2{
-    text-align: center;
-}
-.div1{
-    width: 398px;
-    height: 340px;
-    background-color: yellow;
-    float: left;
-    margin: 40px 3px 3px 3px;
-    font-style: italic;
-    padding-top: 30px;
-}
-.div2{
-    width: 398px;
-    height: 340px;
-    background-color: yellow;
-    float: right;
-    margin: 40px 3px 3px 3px;
-    font-style: italic;
-    padding-top: 30px;
-}
-.div3{
-    width: 800px;
-    height: 263px;
-    background-color: yellow;
-    float: left;
-    margin: 4px;
-    clear: both;
-    font-style: italic;
-    padding-top: 30px;
-} */
-
-
-
-
-
-/* 
-#box1{
-    height: 230px;
-    width: 230px;
-    background-color: white;
-    text-align: center;
-    border: 8px solid red;
-    border-radius: 8px;
-    box-shadow: 8px 8px 3px darkmagenta;        
-    padding: 8px;
-}
-#box1,p{
-    line-height: 32px;
-    text-align: center;
-    font-weight: bold;
-    font-size: 25px;
-    margin-top: 15px;
-    color: #280137;
-    text-shadow: 1px 1px 4px;
-}
-#box2{
-    height: 230px;
-    width: 230px;
-    background-color: white;
-    border: 8px solid red;
-    
-}
-#box2,img{
-    height: 100px;
-    width: 100px;
-    display: inline;
-    padding: 40px;
-} */
